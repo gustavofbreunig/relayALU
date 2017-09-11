@@ -5,6 +5,8 @@ This project describes an ALU made only with electromechanical relays, is partly
 
 ALU instruction set:
 
-
+![Instruction Set](images/instruction_set.PNG?raw=true "Instruction Set")
 
 ALU overall schematic:
+
+![Schematic](images/schematic.PNG?raw=true "Schematic")
